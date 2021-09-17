@@ -1,0 +1,4 @@
+development:
+ DATABASE_URL: mysql2://root:@localhost/railsAPI
+ test:
+DATABASE_URL: mysql2://root:@localhost/railsAPI
